@@ -1,0 +1,25 @@
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+temp.*
+*.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+
+# Node
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
