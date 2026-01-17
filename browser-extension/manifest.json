@@ -1,0 +1,41 @@
+{
+  "manifest_version": 3,
+  "name": "HR Insights Capture",
+  "version": "1.0.0",
+  "description": "Capture HR insights from LinkedIn, YouTube, and articles to sync with Notion",
+  "permissions": [
+    "activeTab",
+    "storage",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://www.linkedin.com/*",
+    "https://www.youtube.com/*",
+    "https://*/*"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.linkedin.com/*"],
+      "js": ["content-linkedin.js"]
+    },
+    {
+      "matches": ["https://www.youtube.com/*"],
+      "js": ["content-youtube.js"]
+    }
+  ],
+  "commands": {
+    "capture-insight": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+I",
+        "mac": "Command+Shift+I"
+      },
+      "description": "Capture current page as insight"
+    }
+  }
+}

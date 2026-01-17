@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HR Insights Capture</title>
+    <style>
+        body {
+            width: 400px;
+            padding: 20px;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        }
+        h1 {
+            font-size: 18px;
+            margin: 0 0 16px 0;
+            color: #2d3748;
+        }
+        .capture-section {
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 500;
+            color: #4a5568;
+            font-size: 14px;
+        }
+        input, textarea, select {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #e2e8f0;
+            border-radius: 4px;
+            font-size: 14px;
+            box-sizing: border-box;
+        }
+        textarea {
+            min-height: 100px;
+            resize: vertical;
+        }
+        .button-group {
+            display: flex;
+            gap: 8px;
+        }
+        button {
+            flex: 1;
+            padding: 10px;
+            border: none;
+            border-radius: 4px;
+            font-size: 14px;
+            cursor: pointer;
+            font-weight: 500;
+        }
+        .btn-primary {
+            background-color: #4299e1;
+            color: white;
+        }
+        .btn-primary:hover {
+            background-color: #3182ce;
+        }
+        .btn-secondary {
+            background-color: #e2e8f0;
+            color: #2d3748;
+        }
+        .btn-secondary:hover {
+            background-color: #cbd5e0;
+        }
+        .status {
+            margin-top: 12px;
+            padding: 8px;
+            border-radius: 4px;
+            font-size: 13px;
+            display: none;
+        }
+        .status.success {
+            background-color: #c6f6d5;
+            color: #22543d;
+            display: block;
+        }
+        .status.error {
+            background-color: #fed7d7;
+            color: #742a2a;
+            display: block;
+        }
+        .shortcut-hint {
+            font-size: 12px;
+            color: #718096;
+            margin-top: 12px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>💡 Capture HR Insight</h1>
+
+    <div class="capture-section">
+        <label for="title">Title</label>
+        <input type="text" id="title" placeholder="e.g., Zapier's Bar Raiser Process" />
+    </div>
+
+    <div class="capture-section">
+        <label for="source">Source</label>
+        <select id="source">
+            <option value="LinkedIn Post">LinkedIn Post</option>
+            <option value="YouTube Video">YouTube Video</option>
+            <option value="Article">Article</option>
+            <option value="Podcast">Podcast</option>
+            <option value="Twitter/X">Twitter/X</option>
+            <option value="Other">Other</option>
+        </select>
+    </div>
+
+    <div class="capture-section">
+        <label for="author">Author</label>
+        <input type="text" id="author" placeholder="e.g., Brandon Sammut (CPO, Zapier)" />
+    </div>
+
+    <div class="capture-section">
+        <label for="tags">Tags (comma-separated)</label>
+        <input type="text" id="tags" placeholder="e.g., Hiring, Bar Raiser, Executive Involvement" />
+    </div>
+
+    <div class="capture-section">
+        <label for="topics">Topics (comma-separated)</label>
+        <input type="text" id="topics" placeholder="e.g., Recruiting, Leadership" />
+    </div>
+
+    <div class="capture-section">
+        <label for="insight">Insight</label>
+        <textarea id="insight" placeholder="Paste or type the key insight here..."></textarea>
+    </div>
+
+    <div class="button-group">
+        <button class="btn-secondary" id="auto-capture">Auto-Capture</button>
+        <button class="btn-primary" id="save">Save to Clipboard</button>
+    </div>
+
+    <div class="status" id="status"></div>
+
+    <div class="shortcut-hint">
+        Keyboard shortcut: Cmd+Shift+I (Mac) or Ctrl+Shift+I (Windows)
+    </div>
+
+    <script src="popup.js"></script>
+</body>
+</html>
