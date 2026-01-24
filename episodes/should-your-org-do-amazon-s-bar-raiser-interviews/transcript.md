@@ -14,2142 +14,1605 @@ description: ""
 
  
 [Music]
-[Music]
  
 [Music]
-[Applause]
 [Applause]
  
 [Applause]
 [Music]
-[Music]
  
 [Music]
 [Applause]
-[Applause]
  
 [Applause]
-[Music]
 [Music]
  
 [Music]
 what's up everybody welcome back to
-what's up everybody welcome back to
  
 what's up everybody welcome back to
 another HR Heretics segment today we
-another HR Heretics segment today we
  
 another HR Heretics segment today we
 have a segment from a listener and it's
-have a segment from a listener and it's
  
 have a segment from a listener and it's
 from Carissa so here's the note to us
-from Carissa so here's the note to us
  
 from Carissa so here's the note to us
 hey big fan in the Pod I listen every
-hey big fan in the Pod I listen every
  
 hey big fan in the Pod I listen every
 week my company is noodling on the idea
-week my company is noodling on the idea
  
 week my company is noodling on the idea
 of doing a bar raiser type of interview
-of doing a bar raiser type of interview
  
 of doing a bar raiser type of interview
 to ensure we hold our standards high for
-to ensure we hold our standards high for
  
 to ensure we hold our standards high for
 bringing in exceptional Talent as we
-bringing in exceptional Talent as we
  
 bringing in exceptional Talent as we
 scale so their series D about 220
-scale so their series D about 220
  
 scale so their series D about 220
 employees she has heard mixed reviews on
-employees she has heard mixed reviews on
  
 employees she has heard mixed reviews on
 the bar raiser program in theory it's a
-the bar raiser program in theory it's a
  
 the bar raiser program in theory it's a
 good idea to have a trusted Elite group
-good idea to have a trusted Elite group
  
 good idea to have a trusted Elite group
 of interviewers who assess leadership
-of interviewers who assess leadership
  
 of interviewers who assess leadership
 potential and look for other high agency
-potential and look for other high agency
  
 potential and look for other high agency
 people and hire the brightest Hustlers
-people and hire the brightest Hustlers
  
 people and hire the brightest Hustlers
 who will push the company
-who will push the company
  
 who will push the company
 forward I would love to hear what y'all
-forward I would love to hear what y'all
  
 forward I would love to hear what y'all
 have seen and done and hear an opinion
-have seen and done and hear an opinion
  
 have seen and done and hear an opinion
 or or take on this one so a couple of
-or or take on this one so a couple of
  
 or or take on this one so a couple of
 things on Amazon's bar rer program from
-things on Amazon's bar rer program from
  
 things on Amazon's bar rer program from
 the website so the goal is to bring
-the website so the goal is to bring
  
 the website so the goal is to bring
 objectivity and to interview Loops uh to
-objectivity and to interview Loops uh to
  
 objectivity and to interview Loops uh to
 fuel Innovation at Amazon bar raisers
-fuel Innovation at Amazon bar raisers
  
 fuel Innovation at Amazon bar raisers
 are nominated by their peers managers or
-are nominated by their peers managers or
  
 are nominated by their peers managers or
 other bar raisers they then have a
-other bar raisers they then have a
  
 other bar raisers they then have a
 training program there's 3600 of these
-training program there's 3600 of these
  
 training program there's 3600 of these
 people and they have a couple of jobs as
-people and they have a couple of jobs as
  
 people and they have a couple of jobs as
 an interviewer they evaluate candidates
-an interviewer they evaluate candidates
  
 an interviewer they evaluate candidates
 against core competencies as a decision
-against core competencies as a decision
  
 against core competencies as a decision
 driver they drive excellent group hiring
-driver they drive excellent group hiring
  
 driver they drive excellent group hiring
 decisions through interview feedback
-decisions through interview feedback
  
 decisions through interview feedback
 reference checking so on and so forth
-reference checking so on and so forth
  
 reference checking so on and so forth
 and then they teach other bar risers so
-and then they teach other bar risers so
  
 and then they teach other bar risers so
 Kelly what is your take on this this
-Kelly what is your take on this this
  
 Kelly what is your take on this this
 phrase has been around for a long time I
-phrase has been around for a long time I
  
 phrase has been around for a long time I
 think it's a very powerful term that I
-think it's a very powerful term that I
  
 think it's a very powerful term that I
 think a lot of leaders like is what I
-think a lot of leaders like is what I
  
 think a lot of leaders like is what I
 think uh and I think it comes with a lot
-think uh and I think it comes with a lot
  
 think uh and I think it comes with a lot
 of baggage either positive or negative
-of baggage either positive or negative
  
 of baggage either positive or negative
 based on people's experiences with it
-based on people's experiences with it
  
 based on people's experiences with it
 what I think is that it's thrown around
-what I think is that it's thrown around
  
 what I think is that it's thrown around
 a lot and it feels good to say we have a
-a lot and it feels good to say we have a
  
 a lot and it feels good to say we have a
 bar raiser process because that feels
-bar raiser process because that feels
  
 bar raiser process because that feels
 good we hire the elite we have this
-good we hire the elite we have this
  
 good we hire the elite we have this
 thing and I think in a lot of cases it
-thing and I think in a lot of cases it
  
 thing and I think in a lot of cases it
 is implemented really really poorly and
-is implemented really really poorly and
  
 is implemented really really poorly and
 there's not a lot underneath the term
-there's not a lot underneath the term
  
 there's not a lot underneath the term
 bar raiser and I think it could be very
-bar raiser and I think it could be very
  
 bar raiser and I think it could be very
 confusing in
-confusing in
  
 confusing in
 organizations so I'll be honest there's
-organizations so I'll be honest there's
  
 organizations so I'll be honest there's
 a lot of folks that I've worked with and
-a lot of folks that I've worked with and
  
 a lot of folks that I've worked with and
 kind of chatted to and they hear this
-kind of chatted to and they hear this
  
 kind of chatted to and they hear this
 term a lot implement this I want this
-term a lot implement this I want this
  
 term a lot implement this I want this
 implement this bar raiser and they kind
-implement this bar raiser and they kind
  
 implement this bar raiser and they kind
 of roll their eyes just like what what
-of roll their eyes just like what what
  
 of roll their eyes just like what what
 do you mean what do you want so I think
-do you mean what do you want so I think
  
 do you mean what do you want so I think
 there's a lot of confusion out there and
-there's a lot of confusion out there and
  
 there's a lot of confusion out there and
 if I finish this I think we should
-if I finish this I think we should
  
 if I finish this I think we should
 Rebrand it I think we should figure out
-Rebrand it I think we should figure out
  
 Rebrand it I think we should figure out
 what do we want to do and and call it
-what do we want to do and and call it
  
 what do we want to do and and call it
 something different that's very clear
-something different that's very clear
  
 something different that's very clear
 what it is okay so is your take then
-what it is okay so is your take then
  
 what it is okay so is your take then
 that
-that
  
 that
 the execution of it is actually okay but
-the execution of it is actually okay but
  
 the execution of it is actually okay but
 the nomenclature is where there's
-the nomenclature is where there's
  
 the nomenclature is where there's
 problems or like where do you land on
-problems or like where do you land on
  
 problems or like where do you land on
 like actually how I guess let's talk
-like actually how I guess let's talk
  
 like actually how I guess let's talk
 about how Amazon does it and then how
-about how Amazon does it and then how
  
 about how Amazon does it and then how
 can app to their own so how Amazon does
-can app to their own so how Amazon does
  
 can app to their own so how Amazon does
 it is I think it's like less than 5% of
-it is I think it's like less than 5% of
  
 it is I think it's like less than 5% of
 the population they're all cross
-the population they're all cross
  
 the population they're all cross
 functional interviewers and they're all
-functional interviewers and they're all
  
 functional interviewers and they're all
 focused on
-focused on
  
 focused on
 identifying uh I think it's like the 17
-identifying uh I think it's like the 17
  
 identifying uh I think it's like the 17
 principles that Amazon has for
-principles that Amazon has for
  
 principles that Amazon has for
 leadership so these people come into
-leadership so these people come into
  
 leadership so these people come into
 interviews they're not part of the team
-interviews they're not part of the team
  
 interviews they're not part of the team
 and they're making sure that these
-and they're making sure that these
  
 and they're making sure that these
 people are better than 50% of the
-people are better than 50% of the
  
 people are better than 50% of the
 population how do you feel about that
-population how do you feel about that
  
 population how do you feel about that
 specific aspect of it I feel like
-specific aspect of it I feel like
  
 specific aspect of it I feel like
 anything in any interview process things
-anything in any interview process things
  
 anything in any interview process things
 can get away from you and bias can creep
-can get away from you and bias can creep
  
 can get away from you and bias can creep
 in that's how I feel so I do like the
-in that's how I feel so I do like the
  
 in that's how I feel so I do like the
 idea of having people in the
-idea of having people in the
  
 idea of having people in the
 organization that can do this and add
-organization that can do this and add
  
 organization that can do this and add
 value to interviewers key term being
-value to interviewers key term being
  
 value to interviewers key term being
 objective third party not a part of the
-objective third party not a part of the
  
 objective third party not a part of the
 team I do think the term can again get
-team I do think the term can again get
  
 team I do think the term can again get
 away from people and be a little bit
-away from people and be a little bit
  
 away from people and be a little bit
 abused misused if you will right like
-abused misused if you will right like
  
 abused misused if you will right like
 let's talk about nominations right we
-let's talk about nominations right we
  
 let's talk about nominations right we
 say that referrals are one of the
-say that referrals are one of the
  
 say that referrals are one of the
 biggest ways to get non diverse or yeah
-biggest ways to get non diverse or yeah
  
 biggest ways to get non diverse or yeah
 non-diverse candidates or Workforce into
-non-diverse candidates or Workforce into
  
 non-diverse candidates or Workforce into
 the organization because you refer
-the organization because you refer
  
 the organization because you refer
 people that are like yourself you're
-people that are like yourself you're
  
 people that are like yourself you're
 nominating peers to be bar raisers it's
-nominating peers to be bar raisers it's
  
 nominating peers to be bar raisers it's
 just it's hard because it can be very
-just it's hard because it can be very
  
 just it's hard because it can be very
 monoculture very quickly because you're
-monoculture very quickly because you're
  
 monoculture very quickly because you're
 nominating people that are like you
-nominating people that are like you
  
 nominating people that are like you
 they're looking for the same things and
-they're looking for the same things and
  
 they're looking for the same things and
 I think it could you just it could be
-I think it could you just it could be
  
 I think it could you just it could be
 very very dangerous and get away from
-very very dangerous and get away from
  
 very very dangerous and get away from
 you if you're not constantly watching it
-you if you're not constantly watching it
  
 you if you're not constantly watching it
 and assessing it and curing it if that
-and assessing it and curing it if that
  
 and assessing it and curing it if that
 makes sense and there's one quote here
-makes sense and there's one quote here
  
 makes sense and there's one quote here
 it says the bar Rider interviews are the
-it says the bar Rider interviews are the
  
 it says the bar Rider interviews are the
 toxic Flex that no one needs and I just
-toxic Flex that no one needs and I just
  
 toxic Flex that no one needs and I just
 again I think that term bar raiser comes
-again I think that term bar raiser comes
  
 again I think that term bar raiser comes
 with a lot of power a lot of veto power
-with a lot of power a lot of veto power
  
 with a lot of power a lot of veto power
 and clout that can be misused and I just
-and clout that can be misused and I just
  
 and clout that can be misused and I just
 think it has to be watched right like
-think it has to be watched right like
  
 think it has to be watched right like
 when I was at hired we had values
-when I was at hired we had values
  
 when I was at hired we had values
 interviewers we didn't use bar raiser we
-interviewers we didn't use bar raiser we
  
 interviewers we didn't use bar raiser we
 had interviewers that are at all levels
-had interviewers that are at all levels
  
 had interviewers that are at all levels
 of the
-of the
  
 of the
 organization they were a small subset
-organization they were a small subset
  
 organization they were a small subset
 yeah probably about 10% of the company
-yeah probably about 10% of the company
  
 yeah probably about 10% of the company
 highly like trained we spent a lot of
-highly like trained we spent a lot of
  
 highly like trained we spent a lot of
 time with them they understood how to
-time with them they understood how to
  
 time with them they understood how to
 ask questions what to look for how to
-ask questions what to look for how to
  
 ask questions what to look for how to
 dissect those things behavioral
-dissect those things behavioral
  
 dissect those things behavioral
 interviewing then we just kept poking
-interviewing then we just kept poking
  
 interviewing then we just kept poking
 them right we kept poking them and made
-them right we kept poking them and made
  
 them right we kept poking them and made
 sure that they were extracting these
-sure that they were extracting these
  
 sure that they were extracting these
 things and it was very clear what we
-things and it was very clear what we
  
 things and it was very clear what we
 were doing we were trying to extract
-were doing we were trying to extract
  
 were doing we were trying to extract
 behavioral answers based on values that
-behavioral answers based on values that
  
 behavioral answers based on values that
 were very viscerally defined you can see
-were very viscerally defined you can see
  
 were very viscerally defined you can see
 it you can touch it you can feel it and
-it you can touch it you can feel it and
  
 it you can touch it you can feel it and
 again that's my point I just feel like
-again that's my point I just feel like
  
 again that's my point I just feel like
 this term bar raiser is thrown around go
-this term bar raiser is thrown around go
  
 this term bar raiser is thrown around go
 Implement a bar raiser interview and
-Implement a bar raiser interview and
  
 Implement a bar raiser interview and
 there's not a lot underneath it so
-there's not a lot underneath it so
  
 there's not a lot underneath it so
 whether you use the bar Razer term or
-whether you use the bar Razer term or
  
 whether you use the bar Razer term or
 not I just really encourage people to
-not I just really encourage people to
  
 not I just really encourage people to
 unpack it be able to viscerally Define
-unpack it be able to viscerally Define
  
 unpack it be able to viscerally Define
 it smell it touch it feel it and explain
-it smell it touch it feel it and explain
  
 it smell it touch it feel it and explain
 it and not just kind of throw what they
-it and not just kind of throw what they
  
 it and not just kind of throw what they
 think are great Superstar performers
-think are great Superstar performers
  
 think are great Superstar performers
 into veto Talent cool so um we tried
-into veto Talent cool so um we tried
  
 into veto Talent cool so um we tried
 this at door Dash we y um the the first
-this at door Dash we y um the the first
  
 this at door Dash we y um the the first
 idea of a name was uh Team brda so like
-idea of a name was uh Team brda so like
  
 idea of a name was uh Team brda so like
 you know the brda water filter so like
-you know the brda water filter so like
  
 you know the brda water filter so like
 you can filter to for top top talent and
-you can filter to for top top talent and
  
 you can filter to for top top talent and
 then I think we ended on like team red
-then I think we ended on like team red
  
 then I think we ended on like team red
 um and I think the idea of bar raiser
-um and I think the idea of bar raiser
  
 um and I think the idea of bar raiser
 makes a ton of sense I think like the
-makes a ton of sense I think like the
  
 makes a ton of sense I think like the
 execution is is where it gets really
-execution is is where it gets really
  
 execution is is where it gets really
 messy and it's hard to get right and so
-messy and it's hard to get right and so
  
 messy and it's hard to get right and so
 I'll tell you what we learned so um
-I'll tell you what we learned so um
  
 I'll tell you what we learned so um
 essentially like what we were trying to
-essentially like what we were trying to
  
 essentially like what we were trying to
 optimize for is very similar to Amazon
-optimize for is very similar to Amazon
  
 optimize for is very similar to Amazon
 is like you know we wanted to have our
-is like you know we wanted to have our
  
 is like you know we wanted to have our
 best people uh interviewing and like
-best people uh interviewing and like
  
 best people uh interviewing and like
 basically serving as like a a gut check
-basically serving as like a a gut check
  
 basically serving as like a a gut check
 especially as we were hyper growing so I
-especially as we were hyper growing so I
  
 especially as we were hyper growing so I
 was there from 50 to 800 that happened
-was there from 50 to 800 that happened
  
 was there from 50 to 800 that happened
 over three years you have to think about
-over three years you have to think about
  
 over three years you have to think about
 when that when you're in hyper growth
-when that when you're in hyper growth
  
 when that when you're in hyper growth
 you tend to hire people and then
-you tend to hire people and then
  
 you tend to hire people and then
 immediately throw them in interviews and
-immediately throw them in interviews and
  
 immediately throw them in interviews and
 they haven't been calibrated on like the
-they haven't been calibrated on like the
  
 they haven't been calibrated on like the
 interview process and what great looks
-interview process and what great looks
  
 interview process and what great looks
 like and what our bar is and so there
-like and what our bar is and so there
  
 like and what our bar is and so there
 are uh there are real problems to solve
-are uh there are real problems to solve
  
 are uh there are real problems to solve
 which we wanted bar riser to S and I'll
-which we wanted bar riser to S and I'll
  
 which we wanted bar riser to S and I'll
 tell you where we landed on this the
-tell you where we landed on this the
  
 tell you where we landed on this the
 problem was um number one you burn out
-problem was um number one you burn out
  
 problem was um number one you burn out
 all of your best
-all of your best
  
 all of your best
 people and and so if you only have 5% of
-people and and so if you only have 5% of
  
 people and and so if you only have 5% of
 your population as bar raisers and they
-your population as bar raisers and they
  
 your population as bar raisers and they
 have to be part of every interview Loop
-have to be part of every interview Loop
  
 have to be part of every interview Loop
 um they get burned out really fast
-um they get burned out really fast
  
 um they get burned out really fast
 because not only they're interviewing
-because not only they're interviewing
  
 because not only they're interviewing
 now for their team which they have to
-now for their team which they have to
  
 now for their team which they have to
 hire for already they're now
-hire for already they're now
  
 hire for already they're now
 interviewing for everyone else's
-interviewing for everyone else's
  
 interviewing for everyone else's
 team hey everyone we'll be right back in
-team hey everyone we'll be right back in
  
 team hey everyone we'll be right back in
 a moment after a word from our sponsors
-a moment after a word from our sponsors
  
 a moment after a word from our sponsors
 Real Talk most Talent leaders haven't
-Real Talk most Talent leaders haven't
  
 Real Talk most Talent leaders haven't
 yet cracked how to leverage AI for
-yet cracked how to leverage AI for
  
 yet cracked how to leverage AI for
 Meaningful impact on their hiring
-Meaningful impact on their hiring
  
 Meaningful impact on their hiring
 processes and business goals but the
-processes and business goals but the
  
 processes and business goals but the
 leaders who are effectively using AI to
-leaders who are effectively using AI to
  
 leaders who are effectively using AI to
 transform their recruiting team's
-transform their recruiting team's
  
 transform their recruiting team's
 efficiency and quality use metav view
-efficiency and quality use metav view
  
 efficiency and quality use metav view
 metav view is the AI assistant for the
-metav view is the AI assistant for the
  
 metav view is the AI assistant for the
 interview process their AI records and
-interview process their AI records and
  
 interview process their AI records and
 transcribes hiring conversations like
-transcribes hiring conversations like
  
 transcribes hiring conversations like
 intakes interviews and debriefs then
-intakes interviews and debriefs then
  
 intakes interviews and debriefs then
 provides perfectly summarized notes of
-provides perfectly summarized notes of
  
 provides perfectly summarized notes of
 everything that was discussed that means
-everything that was discussed that means
  
 everything that was discussed that means
 your people can focus on creating human
-your people can focus on creating human
  
 your people can focus on creating human
 connections with candidates during calls
-connections with candidates during calls
  
 connections with candidates during calls
 and save time on the busy work of
-and save time on the busy work of
  
 and save time on the busy work of
 cleaning up notes after every interview
-cleaning up notes after every interview
  
 cleaning up notes after every interview
 but it's so much much more than just a
-but it's so much much more than just a
  
 but it's so much much more than just a
 timesaver because perfect notes means
-timesaver because perfect notes means
  
 timesaver because perfect notes means
 perfect data for every candidate in
-perfect data for every candidate in
  
 perfect data for every candidate in
 every pipeline hiring teams can make
-every pipeline hiring teams can make
  
 every pipeline hiring teams can make
 confident informed decisions and talent
-confident informed decisions and talent
  
 confident informed decisions and talent
 leaders can finally take control of the
-leaders can finally take control of the
  
 leaders can finally take control of the
 interview process join forward-thinking
-interview process join forward-thinking
  
 interview process join forward-thinking
 Talent leaders at high performing
-Talent leaders at high performing
  
 Talent leaders at high performing
 organizations like brex hellofresh and
-organizations like brex hellofresh and
  
 organizations like brex hellofresh and
 Kora and check out metaview head over to
-Kora and check out metaview head over to
  
 Kora and check out metaview head over to
 metav view. a/h Heretics to talk to one
-metav view. a/h Heretics to talk to one
  
 metav view. a/h Heretics to talk to one
 of metav VI's product experts or get
-of metav VI's product experts or get
  
 of metav VI's product experts or get
 started for free you'll be uppr running
-started for free you'll be uppr running
  
 started for free you'll be uppr running
 an AI enabled in minutes
-an AI enabled in minutes
  
 an AI enabled in minutes
 [Music]
-[Music]
  
 [Music]
 here's a crazy stat between hybrid and
-here's a crazy stat between hybrid and
  
 here's a crazy stat between hybrid and
 Frontline employees about 80% don't
-Frontline employees about 80% don't
  
 Frontline employees about 80% don't
 typically work in an office so it's no
-typically work in an office so it's no
  
 typically work in an office so it's no
 surprise that digitally engaging
-surprise that digitally engaging
  
 surprise that digitally engaging
 employees is the number one concern for
-employees is the number one concern for
  
 employees is the number one concern for
 CEOs as companies go hybrid but as
-CEOs as companies go hybrid but as
  
 CEOs as companies go hybrid but as
 hybrid is quickly becoming the norm it's
-hybrid is quickly becoming the norm it's
  
 hybrid is quickly becoming the norm it's
 easy for workplaces to start feeling a
-easy for workplaces to start feeling a
  
 easy for workplaces to start feeling a
 little less human yet delighting a
-little less human yet delighting a
  
 little less human yet delighting a
 digital Workforce is possible and it can
-digital Workforce is possible and it can
  
 digital Workforce is possible and it can
 even be dare we say fun
-even be dare we say fun
  
 even be dare we say fun
 that's where work Vivo zoom's employee
-that's where work Vivo zoom's employee
  
 that's where work Vivo zoom's employee
 experience platform comes in if you've
-experience platform comes in if you've
  
 experience platform comes in if you've
 ever recoiled at the thought of a static
-ever recoiled at the thought of a static
  
 ever recoiled at the thought of a static
 internet that looks like something you
-internet that looks like something you
  
 internet that looks like something you
 built in 1995 using Ms paint have no
-built in 1995 using Ms paint have no
  
 built in 1995 using Ms paint have no
 fear work Vivo is a dynamic intuitive
-fear work Vivo is a dynamic intuitive
  
 fear work Vivo is a dynamic intuitive
 accessible and mobile First Tool people
-accessible and mobile First Tool people
  
 accessible and mobile First Tool people
 actually like using it which is why
-actually like using it which is why
  
 actually like using it which is why
 companies like ryion a Dollar General
-companies like ryion a Dollar General
  
 companies like ryion a Dollar General
 virgin and more have rolled it out to
-virgin and more have rolled it out to
  
 virgin and more have rolled it out to
 hundreds of thousands of
-hundreds of thousands of
  
 hundreds of thousands of
 employees work vivo's activity feeds
-employees work vivo's activity feeds
  
 employees work vivo's activity feeds
 spaces shoutouts and live streams among
-spaces shoutouts and live streams among
  
 spaces shoutouts and live streams among
 other features help Elevate the employee
-other features help Elevate the employee
  
 other features help Elevate the employee
 experience like never before the result
-experience like never before the result
  
 experience like never before the result
 dramatically better retention
-dramatically better retention
  
 dramatically better retention
 productivity and most importantly
-productivity and most importantly
  
 productivity and most importantly
 connectedness a greater sense of the
-connectedness a greater sense of the
  
 connectedness a greater sense of the
 belonging we all crave at work whether
-belonging we all crave at work whether
  
 belonging we all crave at work whether
 we sit at a desk or drive a truck make
-we sit at a desk or drive a truck make
  
 we sit at a desk or drive a truck make
 work Vivo the digital heart of your
-work Vivo the digital heart of your
  
 work Vivo the digital heart of your
 organization and Achieve Limitless human
-organization and Achieve Limitless human
  
 organization and Achieve Limitless human
 connection to work vivo.com to book a
-connection to work vivo.com to book a
  
 connection to work vivo.com to book a
-demo and make sure you tell them that
 demo and make sure you tell them that
  
 demo and make sure you tell them that
 Nolan and Kelly from HR Heretics
  
- 
- 
-say and so they're not even like doing
 say and so they're not even like doing
  
 say and so they're not even like doing
 their core job um problem number two is
-their core job um problem number two is
  
 their core job um problem number two is
 that like we like to use this term like
-that like we like to use this term like
  
 that like we like to use this term like
 objective and I'm not sure like there is
-objective and I'm not sure like there is
  
 objective and I'm not sure like there is
 objective interviewing um it's just like
-objective interviewing um it's just like
  
 objective interviewing um it's just like
 it's all subjective and I think it's
-it's all subjective and I think it's
  
 it's all subjective and I think it's
 like a little bit of like a joke um to
-like a little bit of like a joke um to
  
 like a little bit of like a joke um to
 call it objective so I tend to agree
-call it objective so I tend to agree
  
 call it objective so I tend to agree
 with you on that um and then you know
-with you on that um and then you know
  
 with you on that um and then you know
 problem number three was is just like
-problem number three was is just like
  
 problem number three was is just like
 that you're exactly right the nominating
-that you're exactly right the nominating
  
 that you're exactly right the nominating
 process of who these people are how you
-process of who these people are how you
  
 process of who these people are how you
 pick them how you continue to come it
-pick them how you continue to come it
  
 pick them how you continue to come it
 just became a huge overhead so what we
-just became a huge overhead so what we
  
 just became a huge overhead so what we
 did instead um is we did uh we invested
-did instead um is we did uh we invested
  
 did instead um is we did uh we invested
 significantly into interviewer training
-significantly into interviewer training
  
 significantly into interviewer training
 and um and we we really wanted to do
-and um and we we really wanted to do
  
 and um and we we really wanted to do
 this by team and by function to make
-this by team and by function to make
  
 this by team and by function to make
 sure that like at the very top of the
-sure that like at the very top of the
  
 sure that like at the very top of the
 org that that person who was running
-org that that person who was running
  
 org that that person who was running
 that org knew exactly what they wanted
-that org knew exactly what they wanted
  
 that org knew exactly what they wanted
 and then the second order was we then
-and then the second order was we then
  
 and then the second order was we then
 created an offer review process so uh it
-created an offer review process so uh it
  
 created an offer review process so uh it
 would you know the recruiter and the
-would you know the recruiter and the
  
 would you know the recruiter and the
 hire manager hire manager made the
-hire manager hire manager made the
  
 hire manager hire manager made the
 decision want to hire then that approval
-decision want to hire then that approval
  
 decision want to hire then that approval
 would go through the org leader then the
-would go through the org leader then the
  
 would go through the org leader then the
 final approval would go through Tony who
-final approval would go through Tony who
  
 final approval would go through Tony who
 is our CEO and that way it was like the
-is our CEO and that way it was like the
  
 is our CEO and that way it was like the
 microscope was out like every single
-microscope was out like every single
  
 microscope was out like every single
 aspect I we weren't burning people out
-aspect I we weren't burning people out
  
 aspect I we weren't burning people out
 so you know going back to what you said
-so you know going back to what you said
  
 so you know going back to what you said
 Kelly the thing I really agree with um
-Kelly the thing I really agree with um
  
 Kelly the thing I really agree with um
 is what problem are you
-is what problem are you
  
 is what problem are you
 solving like what is it that we are
-solving like what is it that we are
  
 solving like what is it that we are
 solving for um is it to raise the bar is
-solving for um is it to raise the bar is
  
 solving for um is it to raise the bar is
 it to like have our best people
-it to like have our best people
  
 it to like have our best people
 interview and then are you okay with the
-interview and then are you okay with the
  
 interview and then are you okay with the
 tradeoff if it's like hey we want our
-tradeoff if it's like hey we want our
  
 tradeoff if it's like hey we want our
 best people as part of every interview
-best people as part of every interview
  
 best people as part of every interview
 are you okay with them like not working
-are you okay with them like not working
  
 are you okay with them like not working
 as much and doing real work and actually
-as much and doing real work and actually
  
 as much and doing real work and actually
 just spending more time on interviews
-just spending more time on interviews
  
 just spending more time on interviews
 that's a real trade-off and that's a
-that's a real trade-off and that's a
  
 that's a real trade-off and that's a
 real discussion to make right it's
-real discussion to make right it's
  
 real discussion to make right it's
 almost like it should be a full-time job
-almost like it should be a full-time job
  
 almost like it should be a full-time job
 right like a SWAT team of folks that do
-right like a SWAT team of folks that do
  
 right like a SWAT team of folks that do
 nothing but this uh right because we had
-nothing but this uh right because we had
  
 nothing but this uh right because we had
 the same thing they were like could I
-the same thing they were like could I
  
 the same thing they were like could I
 can't I can't do this I can't interview
-can't I can't do this I can't interview
  
 can't I can't do this I can't interview
 six people today and also
-six people today and also
  
 six people today and also
 sell yeah um you know we there were some
-sell yeah um you know we there were some
  
 sell yeah um you know we there were some
 other things that came up of like well I
-other things that came up of like well I
  
 other things that came up of like well I
 want to be compensated more for this
-want to be compensated more for this
  
 want to be compensated more for this
 stuff and and like those are you know
-stuff and and like those are you know
  
 stuff and and like those are you know
 those those things like always come up
-those those things like always come up
  
 those those things like always come up
 um but I I think the job of either a
-um but I I think the job of either a
  
 um but I I think the job of either a
 recruiting or an HR leader who either is
-recruiting or an HR leader who either is
  
 recruiting or an HR leader who either is
 thinking about doing this or gets
-thinking about doing this or gets
  
 thinking about doing this or gets
 pressure from a business leader to go
-pressure from a business leader to go
  
 pressure from a business leader to go
 implement it is to walk through the
-implement it is to walk through the
  
 implement it is to walk through the
 tradeoffs of a program like this and
-tradeoffs of a program like this and
  
 tradeoffs of a program like this and
 then also to walk through the
-then also to walk through the
  
 then also to walk through the
 Alternatives and so we've talked a
-Alternatives and so we've talked a
  
 Alternatives and so we've talked a
 little bit about the tradeoffs but like
-little bit about the tradeoffs but like
  
 little bit about the tradeoffs but like
 you know your best people are you okay
-you know your best people are you okay
  
 you know your best people are you okay
 with them not actually doing IC work and
-with them not actually doing IC work and
  
 with them not actually doing IC work and
 spending more time in interviews because
-spending more time in interviews because
  
 spending more time in interviews because
 that's a that is the trade-off like they
-that's a that is the trade-off like they
  
 that's a that is the trade-off like they
 will be spending more time interviewing
-will be spending more time interviewing
  
 will be spending more time interviewing
 and I'm actually for for a little bit of
-and I'm actually for for a little bit of
  
 and I'm actually for for a little bit of
 time I'm okay making that trade but then
-time I'm okay making that trade but then
  
 time I'm okay making that trade but then
 to them if you go and ask those people
-to them if you go and ask those people
  
 to them if you go and ask those people
 this is the other thing that happened
-this is the other thing that happened
  
 this is the other thing that happened
 you know our best people weren't
-you know our best people weren't
  
 you know our best people weren't
 motivated by interviewing more
-motivated by interviewing more
  
 motivated by interviewing more
 candidates like they were motivated by
-candidates like they were motivated by
  
 candidates like they were motivated by
 doing deep work and correct they and
-doing deep work and correct they and
  
 doing deep work and correct they and
 they were getting pulled away from that
-they were getting pulled away from that
  
 they were getting pulled away from that
 work yeah so um I just think it's about
-work yeah so um I just think it's about
  
 work yeah so um I just think it's about
 a trade-off discussion and then
-a trade-off discussion and then
  
 a trade-off discussion and then
 evaluating what else that could help us
-evaluating what else that could help us
  
 evaluating what else that could help us
 solve this problem again at door Dash we
-solve this problem again at door Dash we
  
 solve this problem again at door Dash we
 found that offer review in a
-found that offer review in a
  
 found that offer review in a
 multi-layered off review ended up
-multi-layered off review ended up
  
 multi-layered off review ended up
 solving our problem which was raising
-solving our problem which was raising
  
 solving our problem which was raising
 the bar and ensuring everyone coming
-the bar and ensuring everyone coming
  
 the bar and ensuring everyone coming
 through uh had like a a microscope on
-through uh had like a a microscope on
  
 through uh had like a a microscope on
 their packet which Tony and the orgal
-their packet which Tony and the orgal
  
 their packet which Tony and the orgal
 leader did a really good job of I think
-leader did a really good job of I think
  
 leader did a really good job of I think
 that's a really good example because I I
-that's a really good example because I I
  
 that's a really good example because I I
 think it's very easy to get tangled up
-think it's very easy to get tangled up
  
 think it's very easy to get tangled up
 in this um and again it gets away from
-in this um and again it gets away from
  
 in this um and again it gets away from
 you right it's very easy to get the
-you right it's very easy to get the
  
 you right it's very easy to get the
 adrenaline rush we're going to do bar
-adrenaline rush we're going to do bar
  
 adrenaline rush we're going to do bar
 raisers we're going to put our best
-raisers we're going to put our best
  
 raisers we're going to put our best
 people in and for me I just go back to
-people in and for me I just go back to
  
 people in and for me I just go back to
 First principles why are we doing this
-First principles why are we doing this
  
 First principles why are we doing this
 I'm assuming because you want
-I'm assuming because you want
  
 I'm assuming because you want
 objectivity balance and you want to
-objectivity balance and you want to
  
 objectivity balance and you want to
 ensure you get the best folks perhaps
-ensure you get the best folks perhaps
  
 ensure you get the best folks perhaps
 that's the best way to do that for your
-that's the best way to do that for your
  
 that's the best way to do that for your
 company is not to just pick 10 bar
-company is not to just pick 10 bar
  
 company is not to just pick 10 bar
 raisers and let them go wild maybe it's
-raisers and let them go wild maybe it's
  
 raisers and let them go wild maybe it's
 a multi-threaded offer process maybe
-a multi-threaded offer process maybe
  
 a multi-threaded offer process maybe
 it's right job shadowing and we talked
-it's right job shadowing and we talked
  
 it's right job shadowing and we talked
 about right the work trials which I
-about right the work trials which I
  
 about right the work trials which I
 don't like that term but there's other
-don't like that term but there's other
  
 don't like that term but there's other
 ways to get at this and so I think
-ways to get at this and so I think
  
 ways to get at this and so I think
 there's a lot of folks that hear about
-there's a lot of folks that hear about
  
 there's a lot of folks that hear about
 this and they just like jump into bar
-this and they just like jump into bar
  
 this and they just like jump into bar
 raiser and they get very swept up in it
-raiser and they get very swept up in it
  
 raiser and they get very swept up in it
 and the other thing that I'll I'll say
-and the other thing that I'll I'll say
  
 and the other thing that I'll I'll say
 is that and we talked about this I'll
-is that and we talked about this I'll
  
 is that and we talked about this I'll
 use the parallel of not all star
-use the parallel of not all star
  
 use the parallel of not all star
 individual contributors are good leaders
-individual contributors are good leaders
  
 individual contributors are good leaders
 not all star performers are good
-not all star performers are good
  
 not all star performers are good
 interviewers and again I just I think I
-interviewers and again I just I think I
  
 interviewers and again I just I think I
 think there's a lot of folks where a lot
-think there's a lot of folks where a lot
  
 think there's a lot of folks where a lot
 of high performers they have strong
-of high performers they have strong
  
 of high performers they have strong
 points of view and I believe they have
-points of view and I believe they have
  
 points of view and I believe they have
 an inate bias to want to hire people
-an inate bias to want to hire people
  
 an inate bias to want to hire people
 that are like them not necessarily look
-that are like them not necessarily look
  
 that are like them not necessarily look
 like them but they might act like them
-like them but they might act like them
  
 like them but they might act like them
 they might have the same energy right
-they might have the same energy right
  
 they might have the same energy right
 these high performers that they might
-these high performers that they might
  
 these high performers that they might
 want to model after themselves and then
-want to model after themselves and then
  
 want to model after themselves and then
 you get again more of a mono like a
-you get again more of a mono like a
  
 you get again more of a mono like a
 homogeneous culture that way and I'm not
-homogeneous culture that way and I'm not
  
 homogeneous culture that way and I'm not
 saying not to do it I just am saying you
-saying not to do it I just am saying you
  
 saying not to do it I just am saying you
 have to be careful with it and monitor
-have to be careful with it and monitor
  
 have to be careful with it and monitor
 and continue to talk about it like
-and continue to talk about it like
  
 and continue to talk about it like
 anything you can't just say you're the
-anything you can't just say you're the
  
 anything you can't just say you're the
 bar raisers go and talk to them twice a
-bar raisers go and talk to them twice a
  
 bar raisers go and talk to them twice a
 year it has to literally be day in and
-year it has to literally be day in and
  
 year it has to literally be day in and
 day out it's not really even train it's
-day out it's not really even train it's
  
 day out it's not really even train it's
 like how can you imprint how to do this
-like how can you imprint how to do this
  
 like how can you imprint how to do this
 on these folks because that's what
-on these folks because that's what
  
 on these folks because that's what
 that's what Founders want like that's
-that's what Founders want like that's
  
 that's what Founders want like that's
 what they're trying to do they're trying
-what they're trying to do they're trying
  
 what they're trying to do they're trying
 to create 10 of them so they don't have
-to create 10 of them so they don't have
  
 to create 10 of them so they don't have
 to interview everyone yeah and I'm
-to interview everyone yeah and I'm
  
 to interview everyone yeah and I'm
 trying to think of like this slide you
-trying to think of like this slide you
  
 trying to think of like this slide you
 know if I'm a recruiting leader
-know if I'm a recruiting leader
  
 know if I'm a recruiting leader
 presenting this to my CEO who my CEO is
-presenting this to my CEO who my CEO is
  
 presenting this to my CEO who my CEO is
 like go build the bar raiser program
-like go build the bar raiser program
  
 like go build the bar raiser program
 right and so I would say like that you
-right and so I would say like that you
  
 right and so I would say like that you
 know one slide is is like you know
-know one slide is is like you know
  
 know one slide is is like you know
 potential benefits um and then the other
-potential benefits um and then the other
  
 potential benefits um and then the other
 side is is like you know potential
-side is is like you know potential
  
 side is is like you know potential
 downside tradeoffs and then it's like
-downside tradeoffs and then it's like
  
 downside tradeoffs and then it's like
 what is the tradeoff uh like what you
-what is the tradeoff uh like what you
  
 what is the tradeoff uh like what you
 know and then how do we potentially
-know and then how do we potentially
  
 know and then how do we potentially
 manage that so you're Point around bias
-manage that so you're Point around bias
  
 manage that so you're Point around bias
 which you've mentioned a couple of times
-which you've mentioned a couple of times
  
 which you've mentioned a couple of times
 I think that's fair right it's like you
-I think that's fair right it's like you
  
 I think that's fair right it's like you
 know if we only have you know white men
-know if we only have you know white men
  
 know if we only have you know white men
 or if we only have uh early
-or if we only have uh early
  
 or if we only have uh early
 employees right they're going to bias
-employees right they're going to bias
  
 employees right they're going to bias
 towards people who either look like them
-towards people who either look like them
  
 towards people who either look like them
 or like are kind of like so like in the
-or like are kind of like so like in the
  
 or like are kind of like so like in the
 early employee example yeah like and if
-early employee example yeah like and if
  
 early employee example yeah like and if
 we're scaling like they're not going to
-we're scaling like they're not going to
  
 we're scaling like they're not going to
 know what good looks like at scale and
-know what good looks like at scale and
  
 know what good looks like at scale and
 constantly curate um and and be
-constantly curate um and and be
  
 constantly curate um and and be
 thoughtful but one of the things you
-thoughtful but one of the things you
  
 thoughtful but one of the things you
 said Kelly was actually where I was
-said Kelly was actually where I was
  
 said Kelly was actually where I was
 going to go with it is as part of the
-going to go with it is as part of the
  
 going to go with it is as part of the
 diligence
-diligence
  
 diligence
 for thinking about what program you're
-for thinking about what program you're
  
 for thinking about what program you're
 going to roll out and what is right for
-going to roll out and what is right for
  
 going to roll out and what is right for
 you I strongly encourage leaders to go
-you I strongly encourage leaders to go
  
 you I strongly encourage leaders to go
 talk to the top
-talk to the top
  
 talk to the top
 performers and to get their feedback so
-performers and to get their feedback so
  
 performers and to get their feedback so
 instead of just saying hey we're doing
-instead of just saying hey we're doing
  
 instead of just saying hey we're doing
 bar Riser like this is what we're doing
-bar Riser like this is what we're doing
  
 bar Riser like this is what we're doing
 now actually just go to your best people
-now actually just go to your best people
  
 now actually just go to your best people
 and say look we're scaling or whatever
-and say look we're scaling or whatever
  
 and say look we're scaling or whatever
 your problem set is we want to hire more
-your problem set is we want to hire more
  
 your problem set is we want to hire more
 people like you but we also care deeply
-people like you but we also care deeply
  
 people like you but we also care deeply
 around you know diversity or whatever
-around you know diversity or whatever
  
 around you know diversity or whatever
 your other goals are what do you think
-your other goals are what do you think
  
 your other goals are what do you think
 we should do like how do we have more um
-we should do like how do we have more um
  
 we should do like how do we have more um
 how do we have less false positives and
-how do we have less false positives and
  
 how do we have less false positives and
 uh how do we hire more great people and
-uh how do we hire more great people and
  
 uh how do we hire more great people and
 just like get the feedback from them
-just like get the feedback from them
  
 just like get the feedback from them
 because if you take those sound bites
-because if you take those sound bites
  
 because if you take those sound bites
 and include it in your diligence deck to
-and include it in your diligence deck to
  
 and include it in your diligence deck to
 your CEO they're going to listen to you
-your CEO they're going to listen to you
  
 your CEO they're going to listen to you
 a lot more to when you say oh well Emily
-a lot more to when you say oh well Emily
  
 a lot more to when you say oh well Emily
 you know who is like literally the best
-you know who is like literally the best
  
 you know who is like literally the best
 performer in the in the company said we
-performer in the in the company said we
  
 performer in the in the company said we
 should test this thing CEO all of a
-should test this thing CEO all of a
  
 should test this thing CEO all of a
 sudden ears Park up and they're like
-sudden ears Park up and they're like
  
 sudden ears Park up and they're like
 well that I I love Emily we should
-well that I I love Emily we should
  
 well that I I love Emily we should
 definitely listen to what she has to say
-definitely listen to what she has to say
  
 definitely listen to what she has to say
 yeah I think I think that is a great
-yeah I think I think that is a great
  
 yeah I think I think that is a great
 example of my last takeaway if you take
-example of my last takeaway if you take
  
 example of my last takeaway if you take
 nothing away from this and your CEO says
-nothing away from this and your CEO says
  
 nothing away from this and your CEO says
 I want a bar raiser program don't go too
-I want a bar raiser program don't go too
  
 I want a bar raiser program don't go too
 slow but go a little slow to go fast and
-slow but go a little slow to go fast and
  
 slow but go a little slow to go fast and
 the first slide for me isn't tradeoffs
-the first slide for me isn't tradeoffs
  
 the first slide for me isn't tradeoffs
 the first slide is interview your CEO
-the first slide is interview your CEO
  
 the first slide is interview your CEO
 and say
-and say
  
 and say
 why why do you think we need this what
-why why do you think we need this what
  
 why why do you think we need this what
 does it look like like if we had a great
-does it look like like if we had a great
  
 does it look like like if we had a great
 bar raiser program what would be
-bar raiser program what would be
  
 bar raiser program what would be
 happening every day exactly what is the
-happening every day exactly what is the
  
 happening every day exactly what is the
 outut what again what can you see touch
-outut what again what can you see touch
  
 outut what again what can you see touch
 and feel because I think a lot of folks
-and feel because I think a lot of folks
  
 and feel because I think a lot of folks
 get trapped in CEO saying bar raiser and
-get trapped in CEO saying bar raiser and
  
 get trapped in CEO saying bar raiser and
 they go and they do stuff and it either
-they go and they do stuff and it either
  
 they go and they do stuff and it either
 breaks other stuff or the CEO is like
-breaks other stuff or the CEO is like
  
 breaks other stuff or the CEO is like
 what is this crap so try to go a little
-what is this crap so try to go a little
  
 what is this crap so try to go a little
 bit slow unpack it and then you could
-bit slow unpack it and then you could
  
 bit slow unpack it and then you could
 kick ass later yeah and then you know in
-kick ass later yeah and then you know in
  
 kick ass later yeah and then you know in
 a world in your CE CEO's like go do this
-a world in your CE CEO's like go do this
  
 a world in your CE CEO's like go do this
 Kelly like I told you to go build a bar
-Kelly like I told you to go build a bar
  
 Kelly like I told you to go build a bar
 raiser program like don't give me you
-raiser program like don't give me you
  
 raiser program like don't give me you
 know Nolan's deck of outline I don't
-know Nolan's deck of outline I don't
  
 know Nolan's deck of outline I don't
 give a about that like go run this
-give a about that like go run this
  
 give a about that like go run this
 program what you should actually do is
-program what you should actually do is
  
 program what you should actually do is
 start small right and we we've said this
-start small right and we we've said this
  
 start small right and we we've said this
 a million times on this show but like
-a million times on this show but like
  
 a million times on this show but like
 start small with an experiment either
-start small with an experiment either
  
 start small with an experiment either
 within one team or one organization
-within one team or one organization
  
 within one team or one organization
 right and you know go ball to the wall
-right and you know go ball to the wall
  
 right and you know go ball to the wall
 to make it happen there yeah and then
-to make it happen there yeah and then
  
 to make it happen there yeah and then
 take the learnings from that then go
-take the learnings from that then go
  
 take the learnings from that then go
 back to the CEO and say hey we we did an
-back to the CEO and say hey we we did an
  
 back to the CEO and say hey we we did an
 this is what you know everybody in
-this is what you know everybody in
  
 this is what you know everybody in
 engineering said this is what we learned
-engineering said this is what we learned
  
 engineering said this is what we learned
 this would be the next steps for how we
-this would be the next steps for how we
  
 this would be the next steps for how we
 roll this out on a more broad base the
-roll this out on a more broad base the
  
 roll this out on a more broad base the
 best way to check the go box and not
-best way to check the go box and not
  
 best way to check the go box and not
 break everything at the same yeah time
-break everything at the same yeah time
  
 break everything at the same yeah time
 well it's also the best way to not get
-well it's also the best way to not get
  
 well it's also the best way to not get
 your head chopped off you know for the
-your head chopped off you know for the
  
 your head chopped off you know for the
 the CEO who's like I told you to go do
-the CEO who's like I told you to go do
  
 the CEO who's like I told you to go do
 bar raiser and now you're coming back to
-bar raiser and now you're coming back to
  
 bar raiser and now you're coming back to
 me with a deck that says why we
-me with a deck that says why we
  
 me with a deck that says why we
 shouldn't do bar Riser so are we
-shouldn't do bar Riser so are we
  
 shouldn't do bar Riser so are we
 misaligned like am I not speaking the
-misaligned like am I not speaking the
  
 misaligned like am I not speaking the
 same language as you because I've
-same language as you because I've
  
 same language as you because I've
 certainly been involved in those
-certainly been involved in those
  
 certainly been involved in those
 conversations 100% 100% you gotta spread
-conversations 100% 100% you gotta spread
  
 conversations 100% 100% you gotta spread
 that needle different topic totally all
-that needle different topic totally all
  
 that needle different topic totally all
 right all right everybody uh let us go
-right all right everybody uh let us go
  
 right all right everybody uh let us go
 test this out let us know what you think
-test this out let us know what you think
  
 test this out let us know what you think
 um thank you so much for the question
-um thank you so much for the question
  
 um thank you so much for the question
 and keep the questions coming please by
-and keep the questions coming please by
  
 and keep the questions coming please by
 all your Workforce is both your
-all your Workforce is both your
  
 all your Workforce is both your
 organization's greatest strength and
-organization's greatest strength and
  
 organization's greatest strength and
 largest single cost with planful it's
-largest single cost with planful it's
  
 largest single cost with planful it's
 easy to unlock the secrets of successful
-easy to unlock the secrets of successful
  
 easy to unlock the secrets of successful
 workforce planning so you and your HR
-workforce planning so you and your HR
  
 workforce planning so you and your HR
 team can make the right business
-team can make the right business
  
 team can make the right business
 decisions and imagine using data- driven
-decisions and imagine using data- driven
  
 decisions and imagine using data- driven
 insights to develop accurate forecasts
-insights to develop accurate forecasts
  
 insights to develop accurate forecasts
 close hiring gaps and adjust Talent
-close hiring gaps and adjust Talent
  
 close hiring gaps and adjust Talent
 acquisition plans collaboratively based
-acquisition plans collaboratively based
  
 acquisition plans collaboratively based
 on costs today and into the future
-on costs today and into the future
  
 on costs today and into the future
 planful lets you collaborate with
-planful lets you collaborate with
  
 planful lets you collaborate with
 colleagues and finance to understand the
-colleagues and finance to understand the
  
 colleagues and finance to understand the
 value your employees bring to the table
-value your employees bring to the table
  
 value your employees bring to the table
 and the best part you can get started
-and the best part you can get started
  
 and the best part you can get started
 with planful in just weeks with minimal
-with planful in just weeks with minimal
  
 with planful in just weeks with minimal
 help from it plus with planful you get
-help from it plus with planful you get
  
 help from it plus with planful you get
 an endless Runway planful grows with you
-an endless Runway planful grows with you
  
 an endless Runway planful grows with you
 no matter how fast or large your team
-no matter how fast or large your team
  
 no matter how fast or large your team
 scales ready to transform your HR
-scales ready to transform your HR
  
 scales ready to transform your HR
 strategy join Over 1,500 organizations
-strategy join Over 1,500 organizations
  
 strategy join Over 1,500 organizations
 worldwide who trust planful as their
-worldwide who trust planful as their
  
 worldwide who trust planful as their
-go-to workforce planning software at
 go-to workforce planning software at
  
 go-to workforce planning software at
 planful
  
- 
- 
-docomo HR Heretics is a podcast from
 docomo HR Heretics is a podcast from
  
 docomo HR Heretics is a podcast from
 turpentine the network behind econ 102
-turpentine the network behind econ 102
  
 turpentine the network behind econ 102
 Moment of Zen and turpentine VC
-Moment of Zen and turpentine VC
  
 Moment of Zen and turpentine VC
 subscribe five stars share it on Apple
-subscribe five stars share it on Apple
  
 subscribe five stars share it on Apple
-YouTube Spotify anywhere you get your
 YouTube Spotify anywhere you get your
  
 YouTube Spotify anywhere you get your
